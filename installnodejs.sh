@@ -1,4 +1,4 @@
-echo "INSTALL NODEJS DI DEBIAN"
+echo "INSTALLING NODEJS 14"
 cd ~
 apt update -y && \
 apt install curl -y && \
